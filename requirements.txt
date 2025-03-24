@@ -1,0 +1,7 @@
+gradio
+PyMuPDF
+groq
+langchain
+langchain-core
+langchain-community
+langchain_groq

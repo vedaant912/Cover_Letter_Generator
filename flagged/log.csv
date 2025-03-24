@@ -1,0 +1,140 @@
+pdf_file,output,flag,username,timestamp
+flagged\pdf_file\899a9c3aec6ce8e5f0f8\Vedaant_Joshi_Resume.pdf,"'Vedaant Joshi
+Kaiserslautern, Germany
+ +49 17674960952
+# vedaantjoshi912@gmail.com
+ï LinkedIn
+§ GitHub
+Portfolio
+Professional Experience
+Deutsches Forschungszentrum f¨ur K¨unstliche Intelligenz
+05/23 – 02/25
+Student Assistant, Kaiserslautern, Germany
+• Collaborated with cross-functional teams to standardize annotation protocols for RGB-D data, directly contributing to
+machine learning applications.
+• Validated over 250+ annotated images, ensuring high-quality datasets for training ML models.
+• Presented findings and documented annotation quality, ensuring data accuracy and clear communication.
+Vision Impulse GmbH
+04/23 – 07/23
+Machine Learning Engineer, Student Job, Kaiserslautern, Germany
+• Optimized LSTM network architecture and conducted experiments for time-series satellite data, improving model
+performance.
+• Proficiently analyzed time series satellite data, showcasing my skills in understanding complex data for model
+enhancement.
+Rheinland Pfalz Technical University
+10/21 – 10/22
+Research Assistant - Deep Learning & NLP, Kaiserslautern, Germany
+• Designed neural network architectures for predicting activity coefficients, leveraging PINNs to predict interactions
+between two chemical compounds.
+• Preprocessed, cleaned and analyzed and created 10 different train-test split datasets on the basis of SMILE-based
+molecular combinations with each dataset having 166,000 data points using Pandas and NumPy and performed
+exploratory data analysis.
+• Led this project in collaboration with researcher at ML Lab, RPTU and further implemented Bayesian optimization for
+hyper-parameter tuning, resulting in a 1% increase in model accuracy.
+Meditab Inc.
+12/18 – 06/19
+Internship Trainee, Ahmedabad, India
+• Worked as part of the team to develop a client-side application related to Electronic Health Records (EHRs),
+contributing to the digital version of the Patient Chart.
+• Utilized Power Builder for the front-end and Sybase for the back-end of the application.
+• Worked on multiple software modules, including Patient Master, Search Screen, Authorization Tracking, Patient
+Insurance, and Instruction Master.
+Projects & Research
+LinkedIn Post Generator | Project
+01/25
+• Extracting key topics, language nuances, and preferred post lengths from historical data to generate tailored LinkedIn
+posts.
+• Implemented a robust workflow to collect, preprocess, and analyze LinkedIn posts, ensuring accurate topic extraction and
+content generation.
+Reinforcement Learning Based Pretraining | Thesis
+07/23 – 01/24
+• Developed AI-based decision-making models for autonomous navigation, implementing Soft Actor-Critic (SAC)
+reinforcement learning in CARLA for improved safety and control. Used various sensors including RGB camera, collision
+detector, and lane Invasion detector
+• Designed vehicle simulation pipeline in CARLA, generating 10000+ images and reducing manual annotation time by
+90%.
+• Improved accuracy of Faster-RCNN model for downstream pedestrian detection task by 1%
+CAD Sequence Prediction | Master Project
+04/22 - 10/22
+• Processed 255 3D CAD images to ensure high-quality inputs for model training.
+• Built an Encoder-Decoder model combining Transformers, LSTMs, and 3D-CNNs to predict CAD modeling sequences.
+• Applied BLEU scores to assess model performance on 3D CAD sequence predictions.
+Education
+Rheinland Pfalz Technical University
+MSc. in Computer Science (Machine Learning Specialization), Grade: 1.6
+Kaiserslautern, Germany
+Charotar University of Science and Technology
+BTech. in Computer Science, Grade: 1.2
+Changa, India
+Skills
+Programming Languages: Python, SQL, C++, R, Java, JavaScript, C#, .NET
+Development & DevOps: Git, Linux, Docker, AWS, Weights & Biases, Kubernetes
+Machine Learning & AI: PyTorch, Tensorflow, Scikit-Learn, Stable-baselines3, Hugging Face, OpenCV, SmilesPE
+Data Science & Analytics: Pandas, NumPy, PySpark, Matplotlib, Streamlit, FastAPI
+Coursework: Machine Learning I, Machine Learning II, 2D Image Processing, 3D Computer Vision, Very Deep learning,
+Software Engineering, Applications of Machine Learning and Data Science, NN for Natural Language Processing, Data
+Visualization
+Languages: English, German B1, Hindi, Gujarati
+Certifications
+• Mathematics for Machine Learning
+• Data Science Math Skills
+• Programming, Data Structures, and Algorithms
+• Python for Data Science and Machine Learning
+• Neural Networks and Deep Learning
+• Advanced Computer Vision with Tensorflow
+• Introduction to Docker
+• Generative AI with Large Language Models
+Extracurricular & Leadership
+• Holder of a Bachelor’s degree in Music, specializing in Tabla, and an active performer with a Germany-based Indian
+band since 2023 (Instagram).
+• Organized the NASA Space Apps Hackathon 2021 (Newsletter), bringing together teams for innovation in technology
+and space exploration.
+Kaiserslautern, 05/03/2025, Vedaant Joshi
+",,,2025-03-24 20:23:48.562007
+flagged\pdf\5a207c7f7d417c8db773\Vedaant_Joshi_Resume.pdf,"About Us
+
+At Ailoys GmbH, we are transforming the manufacturing landscape by integrating advanced technologies like IoT, sensor systems, AI and machine learning. Our mission is to empower manufacturing facilities with smarter processes, improved quality, and enhanced efficiency. 
+
+We are looking for a Machine Learning (ML) Engineer who will focus on researching appropriate models for automation manufacturing processes.
+
+In this role, you will:
+
+Design and develop evaluation benchmark.
+Deploy end-to-end evaluation pipelines for in-house and external ML models.
+Be responsible for model selection and comparison with state-of-the-art methods.
+Analyze evaluation results and propose improvements to data and models.
+Required Skills and Experience
+
+Expertise in the evaluation of generative AI methods.
+A good understanding of statistics and data analysis.
+Data annotation management.
+Practical Python language skills.
+Familiarity with frameworks such as NumPy, SciPy, pandas, and Hugging Face Evaluate.
+A minimum of 2-3 years of relevant work experience is required.
+Nice to have:
+
+ML frameworks, such as PyTorch, spaCy, and Transformers.
+CI, workflow automation, and experiment tracking systems.
+Familiarity with the AWS Bedrock
+Why Join Us?
+
+A competitive salary that recognizes your skills and contributions.
+Work on cutting-edge technologies in industrial AI, IoT and manufacturing automation.
+Be part of a fast-growing, innovative team with opportunities for professional growth.
+Contribute to impactful projects with leading global manufacturing companies.
+If you are passionate about driving innovation in manufacturing and have the technical expertise to match, we’d love to hear from you!
+
+How to Apply
+
+Please send your resume and a brief cover letter by pressing ""Apply for this job"" detailing your relevant experience, as well as your salary expectations.
+
+Let’s build the future of manufacturing together!","'Dear Hiring Manager,
+
+As a seasoned Machine Learning Engineer with a proven track record of harnessing the power of cutting-edge models to drive automation manufacturing efficiency, I'm excited to tackle the challenges at Ailoys GmbH. With expertise in diving into complexity, I've successfully navigated the evolving landscape of industrial automation models, identifying and implementing optimal solutions that outperform state-of-the-art methods. I'm eager to leverage my skills in model selection, comparison, and deployment to drive innovation and continuous improvement in manufacturing automation, and I'm confident that my passion for staying at the forefront of ML advancements makes me an ideal fit for this role.
+
+Throughout my career, I've developed a strong foundation in machine learning, with expertise in model selection, comparison, and deployment. My professional experience includes serving as a Research Assistant at Rheinland Pfalz Technical University, where I designed neural network architectures for predicting activity coefficients and led a project in collaboration with researchers to implement Bayesian optimization for hyper-parameter tuning. Additionally, I've worked as a Machine Learning Engineer at Vision Impulse GmbH, where I optimized LSTM network architecture and conducted experiments for time-series satellite data.
+
+I'm particularly drawn to Ailoys GmbH because of its commitment to innovation and continuous improvement in manufacturing automation. I'm excited about the opportunity to bring my skills and experience to a team that shares my passion for machine learning and automation. I'm confident that my expertise in model selection, comparison, and deployment, combined with my passion for staying at the forefront of ML advancements, make me an ideal fit for this role.
+
+Sincere Regards,
+Vedaant Joshi",,,2025-03-24 21:53:59.456279
