@@ -1,2 +1,5 @@
 Envs/
 flagged/
+.env
+__pycache__/
+*.pyc
