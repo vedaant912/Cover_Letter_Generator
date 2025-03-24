@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project generates a tailored cover letter using a job description and a resume. It leverages **Groq LLM** to extract key job attributes, identify challenges, and craft a compelling cover letter.
 
-![Cover Letter Generator App Screenshot](./images/app.png)
+![Cover Letter Generator App Screenshot](./images/app_2.png)
 
 ## 🚀 Features
 - 📄 Upload a **PDF resume**
