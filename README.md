@@ -62,6 +62,11 @@ __pycache__/
 ## 📬 Contributions
 Feel free to fork this project and submit pull requests. Any feedback or improvements are welcome!
 
+## Acknowledgements
+
+- Special thanks to **Jeff Su** for his **prompt engineering** techniques, which played a key role in the success of this cover letter generation model.
+- https://www.youtube.com/watch?v=NUhDP30IRKk&ab_channel=JeffSu
+
 ## 📄 License
 This project is licensed under the MIT License.
 
