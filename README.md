@@ -10,10 +10,9 @@ This project generates a tailored cover letter using a job description and a res
 - 🏢 Extract **role & company name** from a job description
 - 🔍 Identify **key challenges** of the role
 - ✍ Generate a **personalized cover letter**
-- 📋 Copy the cover letter with a single click
 
 ## 🛠️ Tech Stack
-- **Python** (Backend)
+- **Python**
 - **Gradio** (Frontend UI)
 - **Groq API** (LLM)
 - **PyMuPDF** (PDF Processing)
